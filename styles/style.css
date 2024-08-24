@@ -32,7 +32,7 @@ body{
 }
 
 .texto-destaque {
-    color: var(--color-terciario); ;
+    color: var(--color-terciario);
 }
 
 /*Header*/
@@ -81,6 +81,7 @@ body{
 
 .footer__texto__destaque{
     color:var(--color-secundario);
+    text-decoration: none;
 }
 /*----------------------------------------------*/
 
