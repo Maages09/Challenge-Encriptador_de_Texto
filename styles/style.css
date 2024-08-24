@@ -80,7 +80,7 @@ body{
 }
 
 .footer__texto__destaque a {
-    color: inherit;
+    color: var(--color-secundario);
     text-decoration: none;
 }
 /*----------------------------------------------*/
