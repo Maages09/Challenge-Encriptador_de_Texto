@@ -81,7 +81,7 @@ body{
 
 .footer__texto__destaque a {
     color: var(--color-secundario);
-    text-decoration: none;
+    text-decoration: underline;
 }
 /*----------------------------------------------*/
 
