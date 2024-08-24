@@ -78,6 +78,10 @@ body{
     width: 100%;
     bottom: 0%;
 }
+
+.footer__texto__destaque{
+    color:var(--color-secundario);
+}
 /*----------------------------------------------*/
 
 /*------------'index.html'-&-'faq.html-------------*/
