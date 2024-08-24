@@ -73,6 +73,7 @@ body{
     padding: 24px;
     text-align: center;
     font-family: var(--fuente-Text);
+    font-weight 600;
     font-size: 1.2rem;
     font-weight: 400;
     width: 100%;
@@ -140,6 +141,7 @@ body{
 .boton__redirigir__link:hover{
     background-color: var(--color-cuaternario);
 }
+/*-----------------------------------------------*/
 
 /*------------------'main.html'------------------*/
 .contenido__encriptador{
@@ -354,6 +356,7 @@ body{
 }
 
 /*------------------RESPONSVIDAD------------------*/
+/*Tableta*/
 @media (max-width: 1200px){
 
     body{
@@ -492,8 +495,8 @@ body{
     }
 }
 
+/*Celulares*/
 @media (max-width: 500px) {
-
     body {
         font-size: 0.5rem
     }
@@ -576,3 +579,4 @@ body{
         font-size: 1rem;
     }
 }
+/*-----------------------------------------------*/
